@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Carrie</h1>
-<h3 align="left">A passionate frontend developer from Taiwan 🇹🇼</h3>
+<h3 align="left">A frontend developer from Taiwan 🧋</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minato1123&label=Profile%20views&color=0e75b6&style=flat" alt="minato1123" /> </p>
 
